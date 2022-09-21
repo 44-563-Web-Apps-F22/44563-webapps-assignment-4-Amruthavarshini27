@@ -42,3 +42,12 @@
 .MER{
     color:green;
 }
+table,th,td{
+    border: 1px salmon;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    margin:auto;
+    
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
