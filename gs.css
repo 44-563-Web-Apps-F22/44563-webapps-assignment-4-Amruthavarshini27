@@ -8,6 +8,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font:italic;
     font-size: medium;
+    font-weight: 300;
     color: black;
 }
 .name{
@@ -43,8 +44,8 @@
     color:green;
 }
 table,th,td{
-    border: 1px black
-    color:black;
+    border: 1px black;
+    color: black;
     text-align: center;
     padding: 10px;
     margin:auto;
